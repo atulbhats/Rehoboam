@@ -17,3 +17,5 @@ Contents of Rehoboam Interface for PC, Phone and Watch
 
 *   Install the BIN file using the native app
 *   Modify JSON using Amazfit Watchface editor
+
+For More Information Email: ping (@t) atulbhats.com
